@@ -5,7 +5,7 @@ import TextField from "@mui/material/TextField";
 
 import "./Form.css";
 import * as Yup from "yup";
-import Table from "./Table";
+
 function StudentUpdateForm({ setNewCall, formUpdate }) {
   console.log(formUpdate);
   const [updateStudent, { data, isLoading, error, isError, isSuccess }] =
