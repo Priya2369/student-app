@@ -1,0 +1,16 @@
+.btn{
+    background-color: royalblue;
+}
+.container{
+    width:360px;
+    height:auto;
+    margin: auto;
+}
+h1{
+    text-align:center;
+    padding-top:15px;
+}
+
+.form{
+    border:black;
+}
